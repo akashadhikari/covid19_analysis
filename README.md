@@ -3,7 +3,7 @@
 Asking important and interesting questions regarding Coronavirus outbreak and finding the answers using data.
 
 
-<b>[Click Here](https://nbviewer.jupyter.org/github/NepalAI/covid19_analysis/blob/master/covid_19.ipynb) to view the notebook directly.</b>
+<b>[[Click Here]](https://nbviewer.jupyter.org/github/NepalAI/covid19_analysis/blob/master/covid_19.ipynb) to view the notebook directly.</b>
 
 The [Data](https://github.com/akashadhikari/covid19_analysis/tree/master/data) directory contains data for confirmed, recovered and deaths due to Corona. The data keeps on updating [here](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series).
 
