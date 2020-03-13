@@ -1,0 +1,5 @@
+jupyter-notebook==6.0.1
+numpy==1.15.0
+pandas==0.25.3
+plotly==4.5.0
+
